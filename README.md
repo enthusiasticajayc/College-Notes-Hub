@@ -7,6 +7,9 @@ Built using pure HTML, CSS, and JavaScript, this project demonstrates dynamic UI
 
 🎥 Live Demo
 
+▶ Watch the Demo Here:  
+Click to Watch Demo:https://drive.google.com/file/d/1WxXr6y6wDhChHhRvBbGghi6dVTxh1t5r/view?usp=drive_link
+
 🌐 Live Website:
 💻 GitHub Repository: https://github.com/enthusiasticajayc/College-Notes-Hub
 
