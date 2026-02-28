@@ -1,0 +1,13 @@
+/* ===== GENERAL STYLES ===== */
+* { box-sizing: border-box; margin:0; padding:0; }
+body {
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(135deg,#6a11cb,#2575fc);
+  color: #fff;
+  min-height: 100vh;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+/* Continue pasting ALL CSS exactly as it was */
+/* Do not modify anything */
