@@ -6,6 +6,13 @@ College Notes Hub is a modern, responsive web application that allows students t
 Built using pure HTML, CSS, and JavaScript, this project demonstrates dynamic UI handling, file management using the FileReader API, and browser-based data persistence using LocalStorage.
 
 🎥 Live Demo
+## 🎥 Project Demo
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1WxXr6y6wDhChHhRvBbGghi6dVTxh1t5r/view?usp=drive_link">
+    <img src="https://img.icons8.com/color/96/youtube-play.png" width="80"/>
+  </a>
+</p>
 
 ▶ Watch the Demo Here:  
 Click to Watch Demo:https://drive.google.com/file/d/1WxXr6y6wDhChHhRvBbGghi6dVTxh1t5r/view?usp=drive_link
